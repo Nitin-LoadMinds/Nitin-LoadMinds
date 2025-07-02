@@ -1,4 +1,3 @@
-```markdown
 # Nitin [Last Name] | Full Stack Developer | MERN Stack | Crafting Performant Web Applications
 
 [![Profile views](https://komarev.com/ghpvc/?username=Nitin-LoadMinds&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/Nitin-LoadMinds)
@@ -69,4 +68,4 @@ I am actively seeking a full-stack developer role at a company focused on buildi
 
 ```text
 "The only way to do great work is to love what you do." - Steve Jobs
-```
+
